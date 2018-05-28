@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>웹 API 활용하기 (브렌치 테스트)</title>
+<title>웹 API 활용하기 (브렌치 테스트) ㅇㅇ</title>
 </head>
 <body>
 	<h1>웹 소켓 API 활용하기</h1>
